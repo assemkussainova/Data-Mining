@@ -1,0 +1,120 @@
+%------------------------------------------------------------------------------
+% Created by AISpace Dataset Generator v1.0 (Selim Temizer)
+% Sat Feb 15 14:54:57 ALMT 2020
+%------------------------------------------------------------------------------
+% Number of Attributes                   : 5
+% Percentage of Missing Attribute Values : 5
+% Cardinality of Attributes              : 5
+% Cardinality of Class Attribute         : 3
+% Number of Training Instances           : 80
+% Number of Test Instances               : 20
+%------------------------------------------------------------------------------
+% 'T:' Identifies the Attribute Title Line
+% 'A:' Identifies Training Set Examples
+% 'B:' Identifies Test Set Examples
+%------------------------------------------------------------------------------
+
+T:A1,A2,A3,A4,A5,Class;
+
+A:a1v3,a2v1,a3v2,?,a5v3,c3;
+A:a1v4,a2v4,a3v3,a4v1,a5v1,c1;
+A:a1v3,a2v2,a3v1,a4v1,a5v3,c1;
+A:a1v4,a2v5,a3v5,a4v2,a5v5,c1;
+A:a1v5,a2v4,a3v5,a4v4,a5v4,c1;
+A:a1v5,a2v1,?,a4v1,a5v1,c2;
+A:a1v4,a2v3,a3v2,a4v1,a5v5,c1;
+A:a1v3,a2v4,a3v1,a4v5,a5v1,c2;
+A:a1v4,a2v4,?,a4v5,a5v4,c3;
+A:a1v2,a2v2,a3v2,a4v1,a5v5,c3;
+A:a1v3,a2v1,a3v1,a4v3,a5v3,c2;
+A:a1v3,?,a3v4,a4v2,a5v1,c3;
+A:a1v5,a2v3,a3v4,a4v5,a5v3,c3;
+A:a1v4,a2v5,a3v3,a4v5,a5v1,c2;
+A:a1v4,?,a3v5,a4v5,a5v5,c2;
+A:a1v4,a2v3,a3v2,a4v3,a5v5,c1;
+A:a1v3,a2v4,a3v2,a4v1,a5v1,c2;
+A:a1v5,a2v4,a3v3,a4v5,a5v2,c2;
+A:a1v4,?,a3v1,a4v3,a5v4,c3;
+A:a1v3,a2v3,a3v2,?,a5v5,c3;
+A:a1v5,a2v1,a3v2,a4v1,a5v4,c1;
+A:a1v2,a2v4,a3v4,a4v3,a5v5,c2;
+A:a1v3,a2v5,a3v4,a4v5,a5v1,c3;
+A:a1v2,a2v3,a3v2,a4v3,a5v3,c3;
+A:a1v2,a2v5,a3v3,a4v1,a5v2,c2;
+A:a1v5,?,a3v5,a4v5,?,c1;
+A:a1v4,a2v5,a3v2,a4v3,a5v3,c3;
+A:a1v1,a2v1,a3v3,a4v3,a5v1,c1;
+A:a1v3,?,a3v1,a4v3,a5v1,c2;
+A:a1v3,a2v5,a3v2,a4v3,a5v2,c2;
+A:a1v1,a2v2,a3v1,a4v2,a5v5,c2;
+A:?,a2v4,a3v4,a4v2,a5v1,c1;
+A:a1v4,a2v1,a3v5,a4v4,a5v3,c1;
+A:a1v3,a2v2,a3v4,a4v4,a5v5,c2;
+A:a1v5,a2v5,a3v5,a4v5,a5v3,c2;
+A:a1v5,a2v5,a3v1,a4v3,a5v2,c1;
+A:?,a2v2,a3v1,a4v2,a5v3,c3;
+A:a1v5,a2v1,a3v5,a4v4,a5v1,c2;
+A:a1v3,?,a3v1,a4v3,a5v5,c1;
+A:a1v3,a2v5,a3v3,a4v4,a5v1,c1;
+A:?,a2v5,?,a4v2,a5v4,c3;
+A:a1v3,a2v5,a3v5,a4v3,a5v2,c1;
+A:a1v5,a2v5,a3v3,a4v2,a5v3,c1;
+A:a1v5,a2v3,a3v1,a4v2,a5v3,c2;
+A:a1v5,a2v3,a3v3,a4v3,a5v1,c3;
+A:a1v3,a2v5,a3v2,a4v2,a5v1,c1;
+A:a1v2,a2v5,a3v1,a4v1,a5v2,c2;
+A:a1v2,a2v1,a3v5,a4v2,a5v2,c1;
+A:a1v3,a2v3,?,a4v2,a5v3,c3;
+A:a1v4,a2v2,a3v1,a4v1,a5v5,c2;
+A:a1v2,a2v3,a3v2,a4v2,a5v1,c1;
+A:a1v3,a2v5,a3v1,?,a5v2,c2;
+A:a1v4,a2v1,a3v1,?,a5v1,c1;
+A:a1v3,a2v4,a3v3,a4v2,a5v3,c3;
+A:a1v1,a2v3,a3v2,a4v5,a5v5,c2;
+A:a1v4,a2v3,a3v3,a4v5,a5v3,c1;
+A:a1v1,a2v5,a3v1,a4v2,a5v2,c1;
+A:a1v4,a2v1,a3v2,a4v4,a5v3,c3;
+A:a1v5,?,a3v5,a4v4,a5v3,c3;
+A:?,a2v3,a3v5,a4v1,a5v2,c3;
+A:a1v3,a2v5,a3v4,a4v4,a5v4,c2;
+A:a1v5,a2v5,a3v1,a4v3,a5v3,c2;
+A:a1v4,a2v1,?,a4v3,a5v3,c1;
+A:a1v5,a2v3,a3v5,a4v2,a5v2,c2;
+A:a1v3,?,a3v4,a4v3,a5v1,c3;
+A:a1v1,a2v1,a3v2,a4v4,a5v3,c3;
+A:a1v1,a2v2,a3v5,a4v1,a5v1,c2;
+A:?,?,a3v3,a4v3,a5v4,c1;
+A:a1v2,a2v2,a3v1,a4v4,a5v1,c2;
+A:a1v5,a2v3,a3v5,a4v1,a5v1,c2;
+A:a1v4,?,a3v4,a4v5,a5v1,c2;
+A:?,a2v5,a3v5,a4v4,?,c2;
+A:a1v1,a2v1,a3v5,a4v4,a5v5,c2;
+A:a1v3,a2v5,a3v2,a4v2,a5v3,c1;
+A:?,a2v1,a3v5,a4v5,a5v3,c3;
+A:a1v1,a2v4,a3v3,a4v5,a5v4,c3;
+A:a1v1,a2v5,a3v2,a4v3,a5v3,c2;
+A:a1v4,a2v2,a3v2,a4v3,a5v2,c1;
+A:a1v3,a2v4,a3v1,a4v4,a5v3,c3;
+A:a1v5,a2v4,a3v1,a4v2,a5v2,c2;
+
+B:a1v1,a2v4,a3v1,a4v1,a5v3,c3;
+B:a1v4,a2v2,a3v4,a4v3,a5v5,c1;
+B:a1v2,a2v2,a3v1,a4v3,a5v1,c2;
+B:a1v3,a2v1,a3v3,a4v5,?,c3;
+B:?,a2v5,a3v1,a4v1,a5v3,c3;
+B:a1v4,a2v3,a3v2,a4v4,a5v3,c3;
+B:a1v2,a2v2,a3v1,a4v5,a5v4,c1;
+B:a1v3,a2v4,a3v5,a4v2,a5v2,c3;
+B:a1v1,a2v4,a3v4,a4v1,a5v4,c3;
+B:?,a2v4,a3v1,a4v3,a5v5,c3;
+B:a1v5,a2v2,a3v5,a4v3,a5v3,c1;
+B:a1v4,a2v3,a3v2,a4v2,a5v4,c2;
+B:a1v5,a2v3,a3v5,a4v2,a5v1,c2;
+B:a1v2,a2v4,a3v4,a4v2,a5v3,c3;
+B:a1v2,a2v1,a3v2,a4v5,a5v4,c1;
+B:a1v3,a2v3,a3v1,a4v2,a5v2,c2;
+B:a1v4,a2v1,a3v1,a4v3,a5v5,c3;
+B:a1v3,a2v4,?,a4v4,a5v5,c3;
+B:a1v2,a2v5,?,a4v1,a5v1,c2;
+B:a1v2,a2v4,a3v4,a4v2,a5v3,c3;
+
